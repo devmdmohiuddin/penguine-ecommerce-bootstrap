@@ -1,0 +1,72 @@
+header, .banner-section {
+  background-color: #FFFBF0;
+}
+
+
+.cus-nav-link {
+  color: #333;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.heading-left {
+  color: #FABE4C;
+}
+
+.heading-right {
+  color: #363958;
+}
+
+.cus-btn {
+  background-color: #8FA928;
+  border: none;
+  padding: 15px 30px;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.cus-btn:hover {
+  background-color: #5f7213;
+}
+
+h2 {
+  font-weight: bold;
+  color: #363958;
+}
+
+h3 {
+  font-weight: bold;
+  color: #FABE4C;
+}
+
+.cus-card {
+  border: 0;
+  background-color: #fff;
+  border-radius: 20px;
+}
+
+.cus-card-img {
+  padding: 20px;
+  width: 100%;
+  height: 55vh;
+  background-color: #F1F1F1;
+  border-radius: inherit;
+}
+
+.cus-card-title {
+  color: #363958;
+  font-weight: bold;
+}
+
+.cus-card-text {
+  color: #555;
+}
+
+.cus-card-body {
+  padding: 15px 0;
+}
